@@ -6,7 +6,9 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
+    <option name="CARET_COLOR" value="528afe" />
     <option name="CARET_ROW_COLOR" value="2c323c" />
+    <option name="SELECTION_BACKGROUND" value="3e4451" />
   </colors>
   <attributes>
     <option name="CSS.KEYWORD">
@@ -101,6 +103,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="ERROR_STRIPE_COLOR" value="756d56" />
@@ -137,6 +144,13 @@
         <option name="FOREGROUND" value="e5c08b" />
       </value>
     </option>
+    <option name="JS.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
+        <option name="EFFECT_COLOR" value="bb3821" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="c678dd" />
@@ -161,6 +175,81 @@
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JS.PARENTHS">
+      <value />
+    </option>
+    <option name="JS.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="59afef" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="59afef" />
+      </value>
+    </option>
+    <option name="LESS_COLOR">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
+      </value>
+    </option>
+    <option name="LESS_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="528afe" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LESS_IDENT">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LESS_ID_SELECTOR">
+      <value>
+        <option name="FOREGROUND" value="528afe" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LESS_IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LESS_PROPERTY_NAME">
+      <value />
+    </option>
+    <option name="LESS_PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="de9a66" />
+      </value>
+    </option>
+    <option name="LESS_URL">
+      <value />
+    </option>
+    <option name="LESS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="528afe" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -264,6 +353,11 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
